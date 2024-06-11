@@ -1,4 +1,5 @@
 nginx
 kasmweb/nginx:1.25.3
 xhofe/alist:latest
+ghcr.io/coollabsio/coolify-helper:latest
 --platform=linux/arm64 xiaoyaliu/alist
