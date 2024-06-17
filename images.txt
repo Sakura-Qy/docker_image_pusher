@@ -1,5 +1,8 @@
 nginx
 m1k1o/neko:firefox
+m1k1o/neko/ungoogled-chromium:latest
+m1k1o/neko/microsoft-edge:latest
+coturn/coturn:latest
 idootop/mi-gpt:latest
 postgres:15-alpine
 redis:alpine
