@@ -1,10 +1,9 @@
+idootop/mi-gpt:latest
 viktorstrate/photoview
 nginx
 m1k1o/neko:firefox
 m1k1o/neko/ungoogled-chromium:latest
-m1k1o/neko/microsoft-edge:latest
 coturn/coturn:latest
-idootop/mi-gpt:latest
 postgres:15-alpine
 redis:alpine
 kasmweb/nginx:1.25.3
@@ -12,3 +11,4 @@ xhofe/alist:latest
 ghcr.io/coollabsio/coolify-helper:latest
 --platform=linux/arm64 xiaoyaliu/alist
 quay.io/soketi/soketi:1.6-16-alpine
+m1k1o/neko/microsoft-edge:latest
