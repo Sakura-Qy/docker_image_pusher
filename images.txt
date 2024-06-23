@@ -2,7 +2,6 @@ idootop/mi-gpt:latest
 viktorstrate/photoview
 nginx
 m1k1o/neko:firefox
-m1k1o/neko/ungoogled-chromium:latest
 coturn/coturn:latest
 postgres:15-alpine
 redis:alpine
